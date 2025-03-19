@@ -21,4 +21,6 @@ The vision of Cross-Chain DAO Governance is to create a seamless and decentraliz
 - **Decentralization**: Ensures transparent and fair decision-making without a central authority.
 - **Efficient Execution**: Lightweight smart contract with optimized storage and transaction costs.
 - **Scalability**: Designed to integrate with cross-chain interoperability solutions in future updates.
-  ##Contract adress - 0x192d480f3322d3b7b90cbd0f6ca35fbb255da8caa1fc5aa11e3865600d9b8236
+  ##Contract adress -
+   0x192d480f3322d3b7b90cbd0f6ca35fbb255da8caa1fc5aa11e3865600d9b8236
+  
